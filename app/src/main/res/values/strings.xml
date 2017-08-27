@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">TiendaXYZ</string>
+    <string name="titulo">TIENDA XYZ</string>
+    <string name="txtMateriales">Material</string>
+    <string name="cuero">Cuero</string>
+    <string name="cuerda">Cuerda</string>
+    <string name="txtDijes">Dije</string>
+    <string name="martillo">Martillo</string>
+    <string name="ancla">Ancla</string>
+    <string name="txtTipos">Tipo</string>
+    <string name="oro">Oro</string>
+    <string name="oroRosado">Oro rosado</string>
+    <string name="plata">Plata</string>
+    <string name="niquel">Niquel</string>
+    <string name="lblCantidad">Cantidad</string>
+    <string name="pesoColombia">$ COP (Peso colombiano)</string>
+    <string name="PesoUsa">$ USD (Dólar americano)</string>
+    <string name="lblMoneda">Tipo de moneda</string>
+    <string name="txtTotal" >" "</string>
+    <string name="btnCalcular">Calcular total</string>
+    <string name="btnBorrar">Borrar</string>
+    <string name="mensaje_error_uno">Ingrese una cantidad mayor que 0.</string>
+
+
+
+    <string-array name="arrayMateriales">
+        <item>@string/cuero</item>
+        <item>@string/cuerda</item>
+    </string-array>
+
+    <string-array name="arrayDijes">
+        <item>@string/martillo</item>
+        <item>@string/ancla</item>
+    </string-array>
+
+    <string-array name="arrayTipos">
+        <item>@string/oro</item>
+        <item>@string/oroRosado</item>
+        <item>@string/plata</item>
+        <item>@string/niquel</item>
+    </string-array>
+
+    <string-array name="arrayTipoDeMoneda">
+        <item>@string/pesoColombia</item>
+        <item>@string/PesoUsa</item>
+    </string-array>
+
+</resources>

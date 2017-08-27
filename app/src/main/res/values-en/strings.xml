@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">StoreXYZ</string>
+    <string name="titulo">STORE XYZ</string>
+    <string name="txtMateriales">Material</string>
+    <string name="cuero">Leather</string>
+    <string name="cuerda">Rope</string>
+    <string name="ancla">Anchor</string>
+    <string name="martillo">Hammer</string>
+    <string name="niquel">Nickel</string>
+    <string name="oro">Gold</string>
+    <string name="oroRosado">Pink gold</string>
+    <string name="plata">Silver</string>
+    <string name="txtDijes">Jewel</string>
+    <string name="txtTipos">Type</string>
+    <string name="lblCantidad">Quantity</string>
+    <string name="PesoUsa">$ USD (American dollar )</string>
+    <string name="pesoColombia">$ COP $ COP (colombian peso)</string>
+    <string name="lblMoneda">Type of currency</string>
+    <string name="btnBorrar">Clear</string>
+    <string name="btnCalcular">Calculate total</string>
+    <string name="txtTotal">" "</string>
+    <string name="mensaje_error_uno">Enter an amount greater than 0.</string>
+</resources>
