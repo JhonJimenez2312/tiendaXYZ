@@ -19,7 +19,7 @@
     <string name="txtTotal" >" "</string>
     <string name="btnCalcular">Calcular total</string>
     <string name="btnBorrar">Borrar</string>
-    <string name="mensaje_error_uno">Ingrese una cantidad mayor que 0.</string>
+    <string name="mensaje_error_uno">Ingrese una cantidad valida.</string>
 
 
 
